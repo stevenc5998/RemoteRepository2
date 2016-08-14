@@ -105,14 +105,15 @@ body.avgrund-active {
 	filter: blur(1px);
 }
 
-/* Optional close button styles */
+/* 修改字型大小及寬度 */
 .avgrund-close {
 	display: block;
 	color: #555;
-	font-size: 13px;
+	font-size: 15px;
 	text-decoration: none;
 	text-transform: uppercase;
 	position: absolute;
 	top: 6px;
 	right: 10px;
+	font-weight: 900;
 }
